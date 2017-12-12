@@ -5,6 +5,6 @@
       "express":   "2.5.8"
     , "ejs":       "1"
     , "socket.io": "0.9.6"
-    , "serialport":"0.7.3"    // https://github.com/voodootikigod/node-serialport
+    , "serialport":"0.7.3"   
   }
 }
