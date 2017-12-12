@@ -3,7 +3,7 @@
   , "version": "0.0.1"
   , "dependencies": {
       "express":   "2.5.8"
-    , "ejs":       "2.5"
+    , "ejs":       "2.5.7"
     , "socket.io": "0.9.6"
     , "serialport":"0.7.3"   
   }
