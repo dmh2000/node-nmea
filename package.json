@@ -15,9 +15,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-      "mocha":"*",
-      "waf":"*",
-      "jshint":"*"
+    "mocha": "*",
+    "waf": "*",
+    "jshint": "*"
   },
   "optionalDependencies": {}
 }
